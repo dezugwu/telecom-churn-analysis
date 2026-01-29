@@ -62,6 +62,18 @@ The project followed a structured analytics workflow:
 - High monthly charges increase churn risk
 - Customer engagement indicators (e.g., referrals, add-on services) reduce churn
 
+## 📊 Key Visual Insights
+
+### Churn Distribution
+![Churn Distribution](Images/churn_distribution.png)
+
+### Random Forest Model Performance
+![Random Forest Confusion Matrix](Images/rf_confusion_matrix.png)
+
+### Key Churn Drivers
+![Random Forest Feature Importance](Images/rf_feature_importance.png)
+
+
 ---
 
 ## 🤖 Modeling Summary
