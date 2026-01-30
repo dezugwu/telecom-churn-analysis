@@ -68,7 +68,7 @@ The project followed a structured analytics workflow:
 ![Churn Distribution](Images/churn_distribution.PNG)
 
 ### Random Forest Model Performance
-![Random Forest Confusion Matrix](Images/rf_confusion_matrix.PNG)
+![Random Forest Confusion Matrix](Images/rf_confusion_matrix.png)
 
 ### Key Churn Drivers
 ![Random Forest Feature Importance](Images/rf_feature_importance.PNG)
