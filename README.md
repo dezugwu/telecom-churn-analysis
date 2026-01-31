@@ -9,6 +9,13 @@ The final solution delivers a production-ready churn prediction model with stron
 
 ---
 
+## Why This Project Matters
+Customer churn is one of the largest revenue risks for telecom and subscription-based businesses. 
+This project demonstrates how data analysis and machine learning can be used to identify at-risk customers early, 
+design targeted retention strategies, and support data-driven decision-making across marketing and customer success teams.
+
+---
+
 ## 🎯 Key Outcomes
 - Identified early-tenure, month-to-month customers as the highest churn risk segment
 - Built and evaluated multiple ML models (Logistic Regression, Decision Tree, Random Forest)
