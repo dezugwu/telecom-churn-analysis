@@ -116,31 +116,10 @@ Telco-Churn-Analysis/
 ├── Data/
 │   ├── Raw/             # Original datasets
 │   └── Processed/       # Cleaned data
+├── Python_ML_Version/   # Folder hosting all ML analytical documentation
 ├── Notebooks/           # Analysis and modeling notebooks
-├── PowerBI/             # (Optional) Dashboard files
+├── Images/              # (Optional) Dashboard files
 └── README.md
-
----
-
-## 🗣️ How to Talk About This Project
-When discussing this project in interviews or portfolio reviews, focus on:
-
-- Designing and executing a full end-to-end churn analytics pipeline
-- Handling real-world messy telecom data from ingestion to modeling
-- Balancing predictive performance with business interpretability
-- Comparing multiple models and justifying final model selection
-- Translating machine learning outputs into actionable retention strategies
-
----
-
-## 🔮 Future Enhancements
-Potential improvements and extensions include:
-
-- Churn probability threshold tuning for cost-sensitive decisions
-- Retention cost vs revenue impact optimization
-- Deployment of churn scoring for new customers
-- Model monitoring and periodic retraining
-- Interactive Power BI dashboard for executive stakeholders
 
 ---
 
@@ -148,6 +127,3 @@ Potential improvements and extensions include:
 **Ezugwu Desmond**  
 Data Analyst | Telecom Analytics | Predictive Modeling  
 Open to Remote & Global Opportunities
-
-
-[def]: Images/rf_confusion_matrix.png
