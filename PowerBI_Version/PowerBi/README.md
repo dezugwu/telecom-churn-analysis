@@ -6,9 +6,9 @@ A comprehensive 6-page interactive Power BI dashboard designed to analyze custom
 
 ## Project Overview
 
-This end-to-end churn analytics solution helps telecom businesses understand **why customers churn**, **which segments are at highest risk**, and **how much revenue is exposed**.
+This end-to-end churn analytics solution helps telecom businesses understand **why customers churn**, **who will churn next**, **which segments are at highest risk**, and **how much revenue is exposed**.
 
-Built using the IBM Telco Customer Churn dataset, the dashboard features a custom rule-based predictive model, risk segmentation, financial exposure analysis, and prioritized action plans.
+This was built using Telco Customer Churn dataset from kaggle, the dashboard features a custom rule-based predictive model, risk segmentation, financial exposure analysis, and prioritized action plans.
 
 ## Key Outcomes
 
@@ -45,7 +45,7 @@ Built using the IBM Telco Customer Churn dataset, the dashboard features a custo
 ## Live Report
 
 **Interactive Dashboard:**  
-[View Live Report](https://app.powerbi.com/reportEmbed?reportId=your-report-id-here)  
+[View Live Report](https://bit.ly/3PsTLY1)  
 
 > **Note:** Viewing the live report requires a Power BI Pro license or free trial. Full .pbix file and screenshots are available in this repository.
 
@@ -66,26 +66,3 @@ This dashboard was developed as a complete churn analytics project to demonstrat
 
 ---
 
-### Next Steps for You
-
-1. **Replace the live link**  
-   Replace the placeholder `[View Live Report]` with your actual Power BI Service link.
-
-2. **Upload the files**  
-   - Upload your `.pbix` file to the root folder.
-   - Upload all 6 screenshots into the `Screenshots` folder.
-   - Create the folder structure if it doesn’t exist.
-
-3. **Commit & Push**
-
-Would you like me to also prepare:
-
-- A **LinkedIn post** version (ready to copy-paste)?
-- A **resume bullet point** version for your CV?
-- Or tips on how to present this project during interviews?
-
-Just say what you need next, and I’ll provide it immediately.
-
-Your dashboard project is now very well presented and ready for showcasing. Well done!  
-
-What would you like next?
